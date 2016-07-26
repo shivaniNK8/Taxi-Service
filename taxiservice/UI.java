@@ -8,10 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import taxiservice.Location;
 
-/**
- *
- * @author shivani
- */
+
 public class UI extends javax.swing.JFrame {
 
     private int length;
